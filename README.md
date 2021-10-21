@@ -2,7 +2,7 @@
 
 [Link to my code](pythonisms.py)
 
-[Link to my tests](tests.py)
+[Link to my tests](test_pythonisms.py)
 
 ---
 
