@@ -33,7 +33,7 @@ Create examples demonstrating pythonic language features. For example...
   * Add ability for two custom data structures to be considered equal
   * Add ability for custom data structures to be considered truthy/falsy
 
-* Anything ele that catches your interest
+* Anything else that catches your interest
 
 ---
 
